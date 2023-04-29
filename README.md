@@ -44,24 +44,33 @@ a) Standardizing
 b) Normalize
 c) Robust Scaler
 d) Encoding
+e) Boruta Feature Selecion
 
 # 4.0 Insights com base nos dados
 
 ## 1° Hipótese: Lojas com maior sortimentos deveriam vender mais.
-A hipótese é falsa, lojas com maior variedade vendem menos.
+- A hipótese é falsa, lojas com maior variedade vendem menos.
 <center><img alt="" width="50%" src="img/h1_01.png"></center>
 
 ## 6° Hipótese: Lojas com mais promoções consecutivas deveriam vender mais.
-Lojas com promoções consecutivas vendem menos
+- Lojas com promoções consecutivas vendem menos
 <center><img alt="" width="50%" src="img/h6_02.png"></center>
+
 ## 7° Hipótese: Lojas abertas durante o feriado de Natal deveriam vender mais.
-Lojas abertas durante o feriado de natal vendem menos
+- Lojas abertas durante o feriado de natal vendem menos
 <center><img alt="" width="50%" src="img/h7.png"></center>
 
 # 5.0 Modelo aplicado
 
+- O XGBoost Regressor foi o modelo escolhido para solução do problema entre os outros modelos testando por apresentar melhor resultado.
+
 # 6.0 Performance do modelo
+<center><img alt="" width="50%" src="img/model_performance.png"></center>
+
 
 # 7.0 Tradução da performance em resultados de negócio
+
+<center><img alt="" width="50%" src="img/business_performance.png"></center>
+
 
 # 8.0 Conclusões
