@@ -66,14 +66,24 @@ Essa etapa tem o objetivo de preparar os dados para o treinamento dos modelos de
 # 5.0 Modelo aplicado
 
 - O XGBoost Regressor foi o modelo escolhido para solução do problema entre os outros modelos testando por apresentar melhor resultado.
+<center><img alt="" width="50%" src="img/modelos_aplicados.png"></center>
 
 # 6.0 Performance do modelo
+Abaixo podemos ver qual modelo teve um desempenho melhor de acordo com o rmse.
+
 <center><img alt="" width="50%" src="img/model_performance.png"></center>
 
 
 # 7.0 Tradução da performance em resultados de negócio
 
+Na imagem abaixo podemos ver a performance do modelo integrado com o resultado de negócio, trazendo o pior e o melhor cenário de vendas para cada loja.
+
 <center><img alt="" width="50%" src="img/business_performance.png"></center>
 
 
 # 8.0 Conclusões
+- O modelo de regressão foi implementado com sucesso e agora o CFO tem como se planejar de forma mais estratégica e ágil.
+
+# 9.0 Próximos passos
+- Disponibilizar os dados em outro lugar além do BOT no telegram
+- Realizar outro ciclo do CRISP-DS
