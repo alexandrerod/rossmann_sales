@@ -22,32 +22,32 @@ O planejamento da solução foi baseada no método CRISP-DS com o intuíto de en
 
 ## 3.1 Descrição dos dados
 Essa etapa tem o objetivo de conhecer a dimensionalidade dos dados e utilizar técnicas de estatística descritiva para entender melhor o conjunto de dados.
-a) Quantidade dos dados
-b) Tipos de variáveis
-c) Quantidade de dados faltantes e o motivo
-d) Estatística descritiva para variáveis numéricas e categóricas
+- Quantidade dos dados
+- Tipos de variáveis
+- Quantidade de dados faltantes e o motivo
+- Estatística descritiva para variáveis numéricas e categóricas
 ## 3.2 Feature Engineering
 Essa etapa tem o objetivo derivar as features necessárias para a solução do problema de negócio e para responder as hipóteses criadas.
-a) Mapa mental de hipóteses
-b) Priorização das hipóteses
-c) Derivação das features
-d) Filtragem e Seleção das variáveis com base no entendimento do negócio
+- Mapa mental de hipóteses
+- Priorização das hipóteses
+- Derivação das features
+- Filtragem e Seleção das variáveis com base no entendimento do negócio
 
 ## 3.4 Análise exploratória dos dados
 Essa etapa tem o objetivo de entender melhor a distribuição das variáveis e a associação das features com a variável resposta.
 
-a) Análise univariada
-b) Análise bivariada
-c) Análise multivariada: Correlação das variáveis numérica e categóricas
+- Análise univariada
+- Análise bivariada
+- Análise multivariada: Correlação das variáveis numérica e categóricas
 
 ## 3.5 Preparação dos dados
 Essa etapa tem o objetivo de preparar os dados para o treinamento dos modelos de machine learning.
 
-a) Standardizing
-b) Normalize
-c) Robust Scaler
-d) Encoding
-e) Boruta Feature Selecion
+- Standardizing
+- Normalize
+- Robust Scaler
+- Encoding
+- Boruta Feature Selecion
 
 # 4.0 Insights com base nos dados
 
