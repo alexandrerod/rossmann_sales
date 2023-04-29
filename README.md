@@ -65,7 +65,7 @@ Essa etapa tem o objetivo de preparar os dados para o treinamento dos modelos de
 
 # 5.0 Modelo aplicado
 
-- O XGBoost Regressor foi o modelo escolhido para solução do problema entre os outros modelos testando por apresentar melhor resultado.
+- O XGBoost Regressor foi o modelo escolhido para solução do problema entre os outros modelos testados por apresentar melhor resultado.
 <center><img alt="" width="50%" src="img/modelos_aplicados.png"></center>
 
 # 6.0 Performance do modelo
