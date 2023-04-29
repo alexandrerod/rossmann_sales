@@ -12,6 +12,7 @@ A previsão das vendas ajudará o CFO a definir o orçamento que será disponibi
  - O acesso as previsões realizadas poderá ser acessado através do celular.
 
 # 2.0 Premissas do projeto
+
 - As vendas são influenciadas pela proximidade dos concorrentes, feriados escolares e estaduais, sazionalidade e localização;
 - As vendas são influenciadas pela variadade de produtos na loja;
 - As vendas são influenciadas pelas promoções.
@@ -34,12 +35,14 @@ d) Filtragem e Seleção das variáveis com base no entendimento do negócio
 
 ## 3.4 Análise exploratória dos dados
 Essa etapa tem o objetivo de entender melhor a distribuição das variáveis e a associação das features com a variável resposta.
+
 a) Análise univariada
 b) Análise bivariada
 c) Análise multivariada: Correlação das variáveis numérica e categóricas
 
 ## 3.5 Preparação dos dados
 Essa etapa tem o objetivo de preparar os dados para o treinamento dos modelos de machine learning.
+
 a) Standardizing
 b) Normalize
 c) Robust Scaler
